@@ -1,0 +1,59 @@
+<html>
+<head>
+	<title>
+		project1
+	</title>
+
+</head>
+<body style="background-color: lightgrey"/>
+
+<div style="float:left">
+	<img src="11.png">
+<h3 style="color: red"/>
+Samsung ultra Hd 4K<br>
+ tv<br></h3>
+ <span>avalible in 50"&55"</span><br>
+  <hr1>_______________</hr1><br>
+  <b style="color: red">Form 299</b><br>
+  <span>was$699</span><br>
+  <hr1>_______________</hr1><br>
+  <p>
+  	Boasting into the crystal<br>
+  	technology and stunning ul-<br>
+  	tra hd4k resolution</p><br>
+
+
+  	<p style="color: red"><br>
+ 	shop now>
+ </p>
+</div>
+  <div style="float:right:30px">
+  	<img src="10.png"/>
+  <h3 style="color:red">
+  acer intel core i5<sup>@</sup><br>
+  3rd generation</h3></div>
+  <hr1>_______________</hr1><br>
+  <b style="color: red">Form$399</b><br>
+  	<span>was $499</span><br>
+  <hr1>_______________</hr1>
+  <p>
+  include fast intel<sup>@</sup>
+ core<sup>TM</sup></span><br>
+ i3 processor and 1TB of<br>
+ storageFor an extra 70<br>
+  get twice the memory
+ and intel core<sup>TM</sup><br>
+ i5 processor</p>
+ <p style="color: red"><br>
+ 	shop now>
+ </p>
+
+
+	</body>
+
+
+
+
+
+
+</html>
