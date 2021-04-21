@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<input type="text" id="input">
+<script>
+  input.oncut = input.oncopy = input.onpaste = function(event) {
+    alert(event.type + ' - ' + event.clipboardData.getData('text/plain'));
+    return false;
+  };
+</script>
+</body>
+</html>
+
+
+
